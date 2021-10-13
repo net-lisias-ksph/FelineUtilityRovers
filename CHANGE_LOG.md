@@ -1,5 +1,15 @@
 # Feline Utility Rovers :: Change Log
 
+* 2017-0718: 0.6.1 (Nils277) for KSP 1.3
+	+ Another day another tweak*
+			- New Parts:
+			- Added Freight Canister
+			- Enhancements:
+			- Rebalanced all attachable Cargo Parts
+			- The legs are now added to the Gear Action Group automatically
+			- Tweaked displayed amount of resources for the switchable tanks
+			- Bug Fixes:
+			- Fixed text for the extendible docking port for several languages
 * 2017-0717: 0.6.0 (Nils277) for KSP 1.3
 	+ Make a wish*
 			- Enhancements:
