@@ -1,5 +1,11 @@
 # Feline Utility Rovers :: Change Log
 
+* 2017-0914: 1.0.1 (Nils277) for KSP 1.3.0
+	+ Bug Fixes:
+		- Fixed engine categories (this time really)
+		- Removed debug info from right click menu of the hover engines
+		- Fixed inconsistens behaviour when hover mode cannot be enabled
+		- Fixed headlights of the Cockpit
 * 2017-0913: 1.0.0 (Nils277) for KSP 1.3
 	+ The legend of the flying Lynx*
 			- Enhancements:
