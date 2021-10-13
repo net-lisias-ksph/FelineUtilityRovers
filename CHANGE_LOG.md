@@ -1,5 +1,9 @@
 # Feline Utility Rovers :: Change Log
 
+* 2017-0304: 0.4.1 (Nils277) for KSP 1.2.2
+	+ Bug Fixes:
+		- Fixed the missing resources for the life support containers
+		- Fixed the duplicate converter for the fuelcell when Kerbalism is installed
 * 2017-0303: 0.4.0 (Nils277) for KSP 1.2.2
 	+ Enhancements:
 		- The switch for the resources is not visible when only one resource is available
