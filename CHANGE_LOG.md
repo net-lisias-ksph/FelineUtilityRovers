@@ -1,5 +1,19 @@
 # Feline Utility Rovers :: Change Log
 
+* 2017-0913: 1.0.0 (Nils277) for KSP 1.3
+	+ The legend of the flying Lynx*
+			- Enhancements:
+			- Extended KSPedia entries to explain the latest features (needs translation)
+			- Rebalanced the fuelcell for the roof
+			- Added airlocks to the Docking Module for rescue contracts
+			- New Parts:
+			- Added Hover-Engines
+			- Added Boat-Engine
+			- Added Skids
+			- Bug Fixes:
+			- The Engine Category is now available for the engines
+			- The adapters for the rover types are now passable for CLS
+			- Fixed compatibility issues with KJR
 * 2017-0718: 0.6.1 (Nils277) for KSP 1.3
 	+ Another day another tweak*
 			- New Parts:
