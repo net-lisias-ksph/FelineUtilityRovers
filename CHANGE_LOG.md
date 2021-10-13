@@ -1,5 +1,21 @@
 # Feline Utility Rovers :: Change Log
 
+* 2017-1219: 1.0.5 (Nils277) for KSP 1.3.1
+	+ Enhancements:
+		- The user is now warned when trying to activate the hover mode when the engines are stowed
+		- New Parts:
+		- Added Material Bay for the Rover
+		- Nuclear Fuel is now stored in a separate tank and can be transfered
+		- Localization:
+		- Partially updated chinese translation. Thanks to [ssd21345](http://forum.kerbalspaceprogram.com/index.php?/profile/146209-ssd21345/)
+		- Updated brazilian-portuguese translations. Thanks to [FellipeC](http://forum.kerbalspaceprogram.com/index.php?/profile/77983-fellipec/)
+		- Updated spanish translations. Thanks to [bice](http://forum.kerbalspaceprogram.com/index.php?/profile/152599-bice/)
+		- Updated russion translations. Thanks to [Sebra](https://forum.kerbalspaceprogram.com/index.php?/profile/174461-sebra/)
+		- Mod Support:
+		- Enhanced support for Simple Construction
+		- Updated support for USI-LS
+		- Bug Fixes:
+		- Fixed missing light toggle in the right click menu for rear lights
 * 2017-1013: 1.0.4 (Nils277) for KSP 1.3.1
 	+ Bug Fixes:
 		- Fixed collider of thin Cargo Bay
