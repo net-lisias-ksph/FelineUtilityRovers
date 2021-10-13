@@ -1,5 +1,8 @@
 # Feline Utility Rovers :: Change Log
 
+* 2017-1008: 1.0.3 (Nils277) for KSP 1.3.1
+	+ Bug Fixes:
+	+ Fixed category in function filter
 * 2017-1006: 1.0.2 (Nils277) for KSP 1.3.1
 	+ Update:
 	+ Recompile for KSP 1.3.1
