@@ -1,5 +1,14 @@
 # Feline Utility Rovers :: Change Log
 
+* 2017-0529: 0.5.0 (Nils277) for KSP 1.3
+	+ Update:
+		- Recompile for KSP 1.3
+		- Adapted to new localization system (no translations yet)
+		- Bug Fixes:
+		- Fixed wrong name in readme (it was labeled "KPBS_settings.cfg")
+		- Fixed resourced for USI-LS it used Oxygen and Water instead of Mulch and Fertilizer
+		- Fixed lighs (they were able to illuminate Kerbin from orbit)
+		- Fixed category for the SEP Canister (it's in Science now)
 * 2017-0304: 0.4.1 (Nils277) for KSP 1.2.2
 	+ Bug Fixes:
 		- Fixed the missing resources for the life support containers
