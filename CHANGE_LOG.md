@@ -1,5 +1,9 @@
 # Feline Utility Rovers :: Change Log
 
+* 2018-1010: 1.2.8 (Nils277) for KSP 1.6.1
+	+ Bug Fixes:
+		- Fixed plugin code for resource switching
+		- Fixed some errors in the version file
 * 2018-0924: 1.2.7 (Nils277) for KSP 1.4.5
 	+ Update:
 		- Recompile for KSP 1.4.4
