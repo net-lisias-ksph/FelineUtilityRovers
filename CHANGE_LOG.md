@@ -1,5 +1,28 @@
 # Feline Utility Rovers :: Change Log
 
+* 2017-0221: 0.3.1 (Nils277) for KSP 1.2.2
+	+ Misc:
+	+ Kerbals cannot level up in the mobile lab anymore
+	+ Added surface scanner ability to the mobile lab
+	+ Removed Ore from the FuelTank. It is carried by the Freight Container now
+	+ Straightened roof of cargo ramp
+	+ The front piece now has switchable lights
+	+ Adjusted crash tolerance of many parts
+	+ New Parts:
+	+ Added small freight container
+	+ Added big freight container
+	+ Added small flatbed
+	+ Added big flatbed
+	+ Added Solar Panels (2x)
+	+ Added bumper (for Freight and Flatbed)
+	+ Mod Support:
+	+ Added support for KIS
+	+ Added support for JSI Advanced Transparent Pods
+	+ Added support for WheelSounds
+	+ Added support for BonVoyage
+	+ Bug Fixes:
+	+ Fixed the collider of the ladders
+	+ Corrected name of the cargo ramp (removed the "big")
 * 2017-0203: 0.2.0 (Nils277) for KSP 1.2.2
 	+ Enhancements:
 	+ Rebalanced the EC of the unmanned control units
