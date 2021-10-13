@@ -1,5 +1,13 @@
 # Feline Utility Rovers :: Change Log
 
+* 2018-0321: 1.2.2 (Nils277) for KSP 1.4.1
+	+ Mod Support:
+		- Updated support for Unlimited Textures
+		- Bug Fixes:
+		- Fixed Normalmap of the Science in a Box part
+		- Fixed Portrait view of Mobile Lab
+		- Fixed mesh of fuelcell for the roof
+		- Fixed some spelling mistakes in various languages (thanks to [Sebra](https://forum.kerbalspaceprogram.com/index.php?/profile/174461-sebra/) and [DasSkelett](https://github.com/DasSkelett))
 * 2018-0315: 1.2.1 (Nils277) for KSP 1.4.1
 	+ Update:
 		- Recompile for KSP 1.4.1
