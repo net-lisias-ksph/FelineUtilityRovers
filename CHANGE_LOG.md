@@ -1,5 +1,12 @@
 # Feline Utility Rovers :: Change Log
 
+* 2018-0503: 1.2.6 (Nils277) for KSP 1.4.5
+	+ Update:
+		- Updated KSPModFileLocalizer to version 0.2.3.2
+		- General:
+		- Overhaul of Switching framework
+		- Bug Fixes:
+		- Fixed critical bug from Hitches/Joints to cause offset on subsequent parts
 * 2018-0430: 1.2.5 (Nils277) for KSP 1.4.2
 	+ Update:
 		- Recompile for KSP 1.4.3
