@@ -1,5 +1,11 @@
 # Feline Utility Rovers :: Change Log
 
+* 2017-1013: 1.0.4 (Nils277) for KSP 1.3.1
+	+ Bug Fixes:
+		- Fixed collider of thin Cargo Bay
+		- Fixed label of the small freight kontainer
+		- Removed debug logs from the Texture Switch
+		- Fixed a rare error in the resource switch when a module of another mod cannot be loaded
 * 2017-1008: 1.0.3 (Nils277) for KSP 1.3.1
 	+ Bug Fixes:
 	+ Fixed category in function filter
