@@ -1,5 +1,10 @@
 # Feline Utility Rovers :: Change Log
 
+* 2018-0213: 1.0.8 (Nils277) for KSP 1.3.1
+	+ Bug Fixes:
+		- Fixed compatibility with TCA
+		- Fixed log spam of hover engine
+		- Fixed flag and color of the truck cockpit
 * 2018-0206: 1.0.7 (Nils277) for KSP 1.3.1
 	+ Enhancements:
 		- The hover engine now has two modes - "Hold Terrain Distance" and "Hold Altitude"
