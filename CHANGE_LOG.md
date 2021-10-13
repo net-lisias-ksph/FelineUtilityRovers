@@ -1,5 +1,13 @@
 # Feline Utility Rovers :: Change Log
 
+* 2021-0525: 1.3.2 (Nils277) for KSP 1.11.2
+	+ General:
+		- Removed unnecessary debug logging from plugin code
+		- Mod Support:
+		- Updated and fixed support for TexturesUnlimited (reflections, emissives, textures, resource switching)
+		- Added support for CommunityTechTree
+		- Bug Fixes:
+		- Fixed warning error when loading the switching module at startup
 * 2021-0521: 1.3.1 (Nils277) for KSP 1.11.2
 	+ Bug Fixes:
 		- Fixed wrong name of new inventory module
