@@ -1,5 +1,14 @@
 # Feline Utility Rovers :: Change Log
 
+* 2017-0626: 0.5.2 (Nils277) for KSP 1.3
+	+ Enhancements:
+		- The floor of the service bay can now be removed
+		- The config now has the option "showInOneCategoryOnly" to show parts only in one function filter
+		- Localization:
+		- Added translation for russian ![](http://i.imgur.com/mFRcn0a.png). Thanks to [Tirathangil](https://github.com/Tirathangil)
+		- Bug Fixes:
+		- The Fuelcell kanister now has the correct name
+		- Corrected a weird part name from "Bellowed Joint" to "Joint with folding bellow"
 * 2017-0608: 0.5.1 (Nils277) for KSP 1.3
 	+ Localization:
 		- Added localization for spanish ![](http://i.imgur.com/cXO4NUi.png) . Thanks to [bice](http://forum.kerbalspaceprogram.com/index.php?/profile/152599-bice/)
