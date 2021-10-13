@@ -1,5 +1,16 @@
 # Feline Utility Rovers :: Change Log
 
+* 2018-0430: 1.2.5 (Nils277) for KSP 1.4.2
+	+ Update:
+		- Recompile for KSP 1.4.3
+		- General:
+		- Moved Props from FUR to Kerbetrotter directory
+		- Enhancements:
+		- Enhanced the ladder of the ladder with platform a bit
+		- Tweaked friction of the wheels to reduce risk of rover tipping
+		- Bug Fixes:
+		- Fixed problems of IVA switch for docking bay
+		- Fixed the IVA being off on parts behind hitches when the rover crashes
 * 2018-0404: 1.2.4 (Nils277) for KSP 1.4.2
 	+ Update:
 		- Recompile for KSP 1.4.2
