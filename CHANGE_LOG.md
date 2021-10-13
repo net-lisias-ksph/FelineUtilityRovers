@@ -1,5 +1,10 @@
 # Feline Utility Rovers :: Change Log
 
+* 2018-0315: 1.2.1 (Nils277) for KSP 1.4.1
+	+ Update:
+		- Recompile for KSP 1.4.1
+		- Updated KSPModFileLocalizer to version 0.2.3.0
+		- Adjusted friction of wheels for better controllability
 * 2018-0315: 1.1.1 (Nils277) for KSP 1.3.1
 	+ Visual:
 		- Added specular information to all textures
