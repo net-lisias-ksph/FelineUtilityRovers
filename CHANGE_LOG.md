@@ -1,5 +1,8 @@
 # Feline Utility Rovers :: Change Log
 
+* 2019-0328: 1.2.10 (Nils277) for KSP 1.7.2
+	+ Mod Support:
+		- Update to support the lastest USI-LS version
 * 2019-0125: 1.2.9 (Nils277) for KSP 1.6.1
 	+ Update:
 		- Recompile for KSP 1.6.1
