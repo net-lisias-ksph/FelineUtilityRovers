@@ -1,5 +1,17 @@
 # Feline Utility Rovers :: Change Log
 
+* 2018-0404: 1.2.4 (Nils277) for KSP 1.4.2
+	+ Update:
+		- Recompile for KSP 1.4.2
+		- Updated KSPModFileLocalizer to version 0.2.3.1
+		- Enhancements:
+		- You can now enable vertical connetions ports on the docking bay
+		- Bug Fixes:
+		- Fixed support for indicator lights from ISRU
+		- Fixed cabin lights of rear airlock and mobile lab
+		- Fixed some textures for Textures Unlimited support
+		- Mod Support:
+		- Tweaked support for Textures Unlimited
 * 2018-0322: 1.2.3 (Nils277) for KSP 1.4.1
 	+ Localization:
 		- Added italian translation ![](https://i.imgur.com/qg9rZcs.png). Thanks to [Simog](https://forum.kerbalspaceprogram.com/index.php?/profile/179328-simog/)
