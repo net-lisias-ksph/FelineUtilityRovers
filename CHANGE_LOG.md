@@ -1,5 +1,26 @@
 # Feline Utility Rovers :: Change Log
 
+* 2017-1006: 1.0.2 (Nils277) for KSP 1.3.1
+	+ Update:
+	+ Recompile for KSP 1.3.1
+	+ Enhancements:
+	+ The textures of the resource storages do now show what they have stored
+	+ Reduced strenght of 'Cancel lateral speed' option for the engines. (It cause unwanted rotation)
+	+ New Parts:
+	+ Added Drill
+	+ Added ISRU
+	+ Added thin version of Flatbed
+	+ Added thin version of Cargo Bay
+	+ Bug Fixes:
+	+ Added missing texts for the freight canister
+	+ Fixed engine categories (this time really, take two)
+	+ Fixed a bug where a resource container removed non switchable resources from the part
+	+ Mod Support:
+	+ Added basic support for MKS
+	+ Added support for kOS
+	+ Added support for WindowShine
+	+ Misc:
+	+ Adapted licenses (there are now two separate licenses for code and assets)
 * 2017-0914: 1.0.1 (Nils277) for KSP 1.3.0
 	+ Bug Fixes:
 		- Fixed engine categories (this time really)
