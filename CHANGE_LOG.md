@@ -1,5 +1,8 @@
 # Feline Utility Rovers :: Change Log
 
+* 2018-0322: 1.2.3 (Nils277) for KSP 1.4.1
+	+ Localization:
+		- Added italian translation ![](https://i.imgur.com/qg9rZcs.png). Thanks to [Simog](https://forum.kerbalspaceprogram.com/index.php?/profile/179328-simog/)
 * 2018-0321: 1.2.2 (Nils277) for KSP 1.4.1
 	+ Mod Support:
 		- Updated support for Unlimited Textures
