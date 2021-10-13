@@ -1,5 +1,14 @@
 # Feline Utility Rovers :: Change Log
 
+* 2018-0206: 1.0.7 (Nils277) for KSP 1.3.1
+	+ Enhancements:
+		- The hover engine now has two modes - "Hold Terrain Distance" and "Hold Altitude"
+		- Hover engines now use stock modules (allows compatibility with mods like TCA and MechJeb)
+		- Added additional attach node to extendible docking part to allow attachment of decoupler
+		- Bug Fixes:
+		- Added missing USI-LS support to Truck Cockpit
+		- Fixed compatibility issues with the Simple Construction mod
+		- Fixed mirrored text on Small Fueltank
 * 2018-0110: 1.0.6 (Nils277) for KSP 1.3.1
 	+ Localization:
 		- Updated chinese translation. Thanks to [Levin845](http://forum.kerbalspaceprogram.com/index.php?/profile/176530-levin845/)
