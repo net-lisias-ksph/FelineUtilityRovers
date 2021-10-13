@@ -1,5 +1,8 @@
 # Feline Utility Rovers :: Change Log
 
+* 2017-0608: 0.5.1 (Nils277) for KSP 1.3
+	+ Localization:
+		- Added localization for spanish ![](http://i.imgur.com/cXO4NUi.png) . Thanks to [bice](http://forum.kerbalspaceprogram.com/index.php?/profile/152599-bice/)
 * 2017-0529: 0.5.0 (Nils277) for KSP 1.3
 	+ Update:
 		- Recompile for KSP 1.3
