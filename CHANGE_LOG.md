@@ -1,5 +1,13 @@
 # Feline Utility Rovers :: Change Log
 
+* 2021-0416: 1.2.12 (Nils277) for KSP 1.11.2
+	+ Update:
+		- Recompile for KSP 1.11.2
+		- Updated KSPModFileLocalizer to version 0.2.3.7
+		- Re-Added KSPedia entries (they work again YAY!)
+		- Enhancements:
+		- Added support for inventory and construction features from KSP 1.11.*
+		- Addd two new storage container for inventories
 * 2020-0402: 1.2.11 (Nils277) for KSP 1.9.1
 	+ Update:
 		- Recompile for KSP 1.9.1
