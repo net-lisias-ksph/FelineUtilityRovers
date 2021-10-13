@@ -1,5 +1,14 @@
 # Feline Utility Rovers :: Change Log
 
+* 2018-0924: 1.2.7 (Nils277) for KSP 1.4.5
+	+ Update:
+		- Recompile for KSP 1.4.4
+		- Enhancements:
+		- Material bay, isru and mobile lab now satisfy contracts requesting these parts (needs ModuleManager)
+		- Bug Fixes:
+		- Fixed vent particel animation playing in editor for fuel tanks
+		- Adjusted light position for rear airlock and rear fueltank
+		- The version file now links to the correct website
 * 2018-0503: 1.2.6 (Nils277) for KSP 1.4.5
 	+ Update:
 		- Updated KSPModFileLocalizer to version 0.2.3.2
