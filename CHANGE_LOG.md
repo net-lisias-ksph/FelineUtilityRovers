@@ -1,5 +1,11 @@
 # Feline Utility Rovers :: Change Log
 
+* 2021-0528: 1.3.3 (Nils277) for KSP 1.12.2
+	+ Mod Support:
+		- Adjusted window color TexturesUnlimited
+		- Bug Fixes:
+		- Fixed resource amount not being calculated correctly
+		- Added missing support of the Cargo Part for TexturesUnlimited
 * 2021-0525: 1.3.2 (Nils277) for KSP 1.11.2
 	+ General:
 		- Removed unnecessary debug logging from plugin code
