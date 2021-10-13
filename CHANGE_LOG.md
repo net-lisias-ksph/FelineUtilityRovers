@@ -1,5 +1,12 @@
 # Feline Utility Rovers :: Change Log
 
+* 2019-0125: 1.2.9 (Nils277) for KSP 1.6.1
+	+ Update:
+		- Recompile for KSP 1.6.1
+		- Updated KSPModFileLocalizer to version 0.2.3.3
+		- Bug Fixes:
+		- Fixed height of the Malemute Adapter
+		- Fixed Hitches breaking when the vessel docks
 * 2018-1010: 1.2.8 (Nils277) for KSP 1.6.1
 	+ Bug Fixes:
 		- Fixed plugin code for resource switching
