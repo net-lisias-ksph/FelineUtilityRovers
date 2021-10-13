@@ -1,5 +1,32 @@
 # Feline Utility Rovers :: Change Log
 
+* 2017-0717: 0.6.0 (Nils277) for KSP 1.3
+	+ Make a wish*
+			- Enhancements:
+			- Enhanced performance of all animated parts
+			- The life support parts now have more storage options for Kerbalism
+			- Rear Airlock and Rear Fueltank can now switch between head and rear lights
+			- Localization:
+			- Added chinese translation ![](http://i.imgur.com/JyqfJ1P.png). Thanks to [ssd21345](http://forum.kerbalspaceprogram.com/index.php?/profile/146209-ssd21345/), [vosskftw](http://forum.kerbalspaceprogram.com/index.php?/profile/175031-vosskftw/) and [Levin845](http://forum.kerbalspaceprogram.com/index.php?/profile/176530-levin845/)
+			- Added (brazilian) portuguese translation ![](http://i.imgur.com/THVD1ot.jpg). Thanks to [FellipeC](http://forum.kerbalspaceprogram.com/index.php?/profile/77983-fellipec/)
+			- Added german translation ![](http://i.imgur.com/SuHOnKm.png)
+			- Updated spanish translations for new parts. Thanks to [bice](http://forum.kerbalspaceprogram.com/index.php?/profile/152599-bice/)
+			- Added some missing translations for Kerbalism
+			- New Parts:
+			- Added New Cockpit
+			- Added Thruster
+			- Added Thruster for sides
+			- Added Adapter for Buffalo and Malemute
+			- Added Legs
+			- Added Flatbed ramp
+			- Added height-adjustable docking bay (2x)
+			- Added Utility Module
+			- Added attachable Cargobags (3x)
+			- Added Fuelcell for Roof
+			- Added Thin Fuel Tank
+			- Bug Fixes:
+			- Fixed multiple errors in the english texts
+			- Fixed multiple logged warnings for configs
 * 2017-0626: 0.5.2 (Nils277) for KSP 1.3
 	+ Enhancements:
 		- The floor of the service bay can now be removed
