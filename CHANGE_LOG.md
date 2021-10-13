@@ -1,5 +1,11 @@
 # Feline Utility Rovers :: Change Log
 
+* 2021-0521: 1.3.1 (Nils277) for KSP 1.11.2
+	+ Bug Fixes:
+		- Fixed wrong name of new inventory module
+		- Fixed color in VAB being grey for category
+		- Fixed missing module
+		- Fixed warning for switching module
 * 2021-0521: 1.3.0 (Nils277) for KSP 1.11.2
 	+ General:
 		- Most switching (visual, harvester, resources and converter) can now only be done by an Engineer Kerbal on EVA
